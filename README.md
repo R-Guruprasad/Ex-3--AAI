@@ -1,6 +1,6 @@
 <H4>NAME:R Guruprasad</H4>
 <H4>REGISTER NO:212222240033</H4>
-<H4>Date: </H4>
+<H4>DATE: </H4>
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.</br>
